@@ -20,13 +20,13 @@ Every page on a website should have a version number. We have found this is the 
 The version number increase and display should be automated to avoid developer error, and the best way to do this is to use the Version component from SSW.Framework.MVC.
 
 ::: good
-![image](https://user-images.githubusercontent.com/86330564/123016650-6ee40500-d40e-11eb-9b2a-baf287e9afa6.png)
+![Figure: Good example - Version information from SSW TimePRO](https://user-images.githubusercontent.com/86330564/123016650-6ee40500-d40e-11eb-9b2a-baf287e9afa6.png)
 :::
 
-Figure: Good example - Version information from SSW TimePRO
+
 
 ::: good
-![image](https://user-images.githubusercontent.com/86330564/123016707-8de29700-d40e-11eb-81cb-3b1e3da18cae.png)
+![Figure: Better example - SSW Website displays Continuous Deployment information including date and changeset](https://user-images.githubusercontent.com/86330564/123016707-8de29700-d40e-11eb-81cb-3b1e3da18cae.png)
 :::
 
-Figure: Better example - SSW Website displays Continuous Deployment information including date and changeset
+
